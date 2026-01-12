@@ -15,9 +15,9 @@ Analyze automotive sales data to understand revenue trends, regional performance
 - Visualized KPIs such as revenue trends, regional sales, and top-performing products  
 
 ## Key Insights  
-- Identified high-performing car models and regions  
-- Observed seasonal trends in vehicle sales  
-- Highlighted dealerships with the highest revenue contribution  
+- Identified high-performing car models and regions.  
+- Observed seasonal trends in vehicle sales. 
+- Highlighted dealerships with the highest revenue contribution. 
 
 ## Output  
 An interactive Power BI dashboard that helps stakeholders track sales performance and optimize business strategy.
